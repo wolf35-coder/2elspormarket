@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>2ElSporMarket</title>
+</head>
+<body>
+    <header>
+        <h1>2ElSporMarket</h1>
+    </header>
+    <main>
+        <section id="home">
+            <h2>Hoşgeldiniz!</h2>
+            <p>İkinci el spor malzemeleri satışı ve tamiri için doğru adrestesiniz!</p>
+        </section>
+        <section id="products">
+            <h2>Ürünlerimiz</h2>
+            <ul>
+                <li>Koşu Bandı</li>
+                <li>Eliptik Bisiklet</li>
+                <li>Ağırlık Seti</li>
+                <li>Fitness Ekipmanları</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 2ElSporMarket. Tüm hakları saklıdır.</p>
+    </footer>
+</body>
+</html>
